@@ -1,7 +1,7 @@
 import re
 
 
-print("""
+    print("""
     **         Welcome MadLib Player!        **
     **       Get ready to have some fun      **
     **         Type during the prompt        **
